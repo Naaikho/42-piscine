@@ -1,0 +1,5 @@
+Credentials cache: API:4F886AB6-6799-411D-B96B-650B03DDC4EE
+        Principal: lcazeres@42.FR
+
+  Issued                Expires               Principal
+Oct 12 15:57:18 2020  Oct 19 15:57:10 2020  krbtgt/42.FR@42.FR
