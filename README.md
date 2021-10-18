@@ -5,7 +5,7 @@
 
 ### Voici tout mon parcours durant la piscine de 42
 
-> DISCLAIMER: Les projets 42 s'arrêtent ici au C_07 car elle represente mon parcours pendant la piscine d'Octobre 2020
+> **DISCLAIMER**: Les projets 42 s'arrêtent ici au C_07 car elle represente mon parcours pendant la piscine d'Octobre 2020
 > qui s'est vu devoir s'écourter après 2 semaines et demi à cause du confinement.
 
 ## Les rushs
