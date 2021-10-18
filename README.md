@@ -1,5 +1,8 @@
 # Naikho 42 piscine
 
+<!-- ![42](https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg | width=100) -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="200">
+
 ### Voici tout mon parcours durant la piscine de 42
 
 > DISCLAIMER: Les projets 42 s'arrêtent ici au C_07 car elle represente mon parcours pendant la piscine d'Octobre 2020
